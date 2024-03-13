@@ -1,4 +1,4 @@
-##Conversion de moneda
+##Conversion de moneda##
 
 **Descripción:** Es aplicación de conversor de monedas en el lenguaje de programación C, cual se da las opciones de convertir entre quetzales, dólares estadounidenses y euros. 
 2.Prerrequisitos (tecnologías a instalar) - Para llevar acabo se debe de instalar VS, Ubuntu y Apache2.
